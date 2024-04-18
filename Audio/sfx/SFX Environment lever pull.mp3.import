@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cus2pu1e08gag"
+path="res://.godot/imported/SFX Environment lever pull.mp3-20ae178ced9116a465e18de3f459f0d0.mp3str"
+
+[deps]
+
+source_file="res://Audio/sfx/SFX Environment lever pull.mp3"
+dest_files=["res://.godot/imported/SFX Environment lever pull.mp3-20ae178ced9116a465e18de3f459f0d0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1thugfxo4xpi"
+path="res://.godot/imported/SFX door lock four.mp3-b5f73f5ff2a820ea141f21470bba3da4.mp3str"
+
+[deps]
+
+source_file="res://Audio/sfx/SFX door lock four.mp3"
+dest_files=["res://.godot/imported/SFX door lock four.mp3-b5f73f5ff2a820ea141f21470bba3da4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

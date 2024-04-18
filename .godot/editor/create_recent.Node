@@ -1,0 +1,14 @@
+NavigationRegion3D
+Node3D
+CSGBox3D
+AudioStreamPlayer3D
+NavigationAgent3D
+CollisionShape3D
+CharacterBody3D
+AudioStreamPlayer
+AnimationPlayer
+Area3D
+MeshInstance3D
+StaticBody3D
+OmniLight3D
+SpotLight3D

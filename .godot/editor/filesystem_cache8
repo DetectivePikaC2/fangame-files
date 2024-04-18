@@ -1,0 +1,306 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713324871
+icon.svg::CompressedTexture2D::2663209807144480318::1712875299::1712875299::1::::<><>::
+README.md::TextFile::-1::1712878652::0::1::::<><>::
+::res://Audio/::1713220934
+::res://Audio/bg_music/::1713220762
+9. Horror Ambience Loop.mp3::AudioStreamMP3::6739477938402197221::1712875323::1712875323::1::::<><>::
+::res://Audio/sfx/::1713220763
+new_lever.mp3::AudioStreamMP3::7276437048425255061::1713130884::1713130885::1::::<><>::
+SFX carpetWalk03.mp3::AudioStreamMP3::5073525893710698285::1712875323::1712875323::1::::<><>::
+SFX carpetWalk04.mp3::AudioStreamMP3::6523707765501289531::1712875324::1712875324::1::::<><>::
+SFX carpetWalk05.mp3::AudioStreamMP3::8938293152543596428::1712875324::1712875324::1::::<><>::
+SFX carpetWalk06.mp3::AudioStreamMP3::553712337722444173::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking01.mp3::AudioStreamMP3::6506182548255285059::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking02.mp3::AudioStreamMP3::626845225518941579::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking03.mp3::AudioStreamMP3::2488109890200581167::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking04.mp3::AudioStreamMP3::3212495658272347734::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun01.mp3::AudioStreamMP3::8872438716152300471::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun02.mp3::AudioStreamMP3::8699404607640457751::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun03.mp3::AudioStreamMP3::4311547928858716363::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun04.mp3::AudioStreamMP3::5243936017352293749::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk RegularJump jump1.mp3::AudioStreamMP3::2331082062676026697::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk RegularJump jump2.mp3::AudioStreamMP3::4847734004466311051::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric current.mp3::AudioStreamMP3::5693301178701434938::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric pole charge.mp3::AudioStreamMP3::8541527937475074610::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric pole discharge.mp3::AudioStreamMP3::7279757740710952955::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX hand grab coil.mp3::AudioStreamMP3::7010895123327700490::1712875325::1712875325::1::::<><>::
+SFX door close five.mp3::AudioStreamMP3::4802738182473605974::1712930884::1712930885::1::::<><>::
+SFX door lock four.mp3::AudioStreamMP3::6637435538058656330::1712930884::1712930885::1::::<><>::
+SFX engine generator loop 01.mp3::AudioStreamMP3::6509461275569793415::1712875325::1712875325::1::::<><>::
+SFX Entrance flourecent lights.mp3::AudioStreamMP3::9087452171820146387::1713045173::1712875325::1::::<><>::
+SFX Environment gate sfx.mp3::AudioStreamMP3::5712492836603364831::1712875325::1712875325::1::::<><>::
+SFX Environment lever pull.mp3::AudioStreamMP3::6215444276281565494::1713130673::1713130674::1::::<><>::
+SFX Extendo Hands hand grab 01.mp3::AudioStreamMP3::4846508733254917961::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand launch 01.mp3::AudioStreamMP3::8701610589318872089::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand launch cable 01-SeamlessLoop.mp3::AudioStreamMP3::5713964120691800018::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand retract 01.mp3::AudioStreamMP3::6917812998300343079::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands scanner 01.mp3::AudioStreamMP3::8963190324453861328::1712875325::1712875325::1::::<><>::
+SFX gate sfx.mp3::AudioStreamMP3::6530516129551995862::1713045173::1713045173::1::::<><>::
+SFX item grab v3.mp3::AudioStreamMP3::7348479934969650354::1712875325::1712875325::1::::<><>::
+SFX keypad fail sfx.mp3::AudioStreamMP3::8644849094490589087::1713143428::1713143429::1::::<><>::
+SFX keypad sfx-[AudioTrimmer.com].mp3::AudioStreamMP3::8561887794779665963::1713143528::1713143529::1::::<><>::
+SFX keypad unlock sfx.mp3::AudioStreamMP3::3401403288616689740::1713143428::1713143429::1::::<><>::
+SFX puzzle complete sfx.mp3::AudioStreamMP3::7983999451605610284::1713146654::1713146655::1::::<><>::
+SFX vhs tape insert.mp3::AudioStreamMP3::547697995451301358::1713028140::1713028141::1::::<><>::
+::res://interactable/::1713220763
+battery.gd::GDScript::-1::1712875325::0::1::::<>RigidBody3D<>::
+battery.tscn::PackedScene::7524471440063276453::1712875325::0::1::::<><>::res://interactable/battery.gd<>uid://dwo0a6fntms5d::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryBox_baseColor.png<>uid://b2q0asiv3prh::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryBox_normal.png
+battery_reciever.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+battery_reciever.tscn::PackedScene::6325206943412859548::1712875325::0::1::::<><>::res://interactable/battery_reciever.gd<>uid://bhka50he7shaq::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryFrame_Green_baseColor.png<>uid://bvbleu8tpocka::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryFrame_Green_normal.png
+blue_scanner.gd::GDScript::-1::1713126439::0::1::::<>Node3D<>::
+blue_scanner.tscn::PackedScene::9134154652260198518::1713129929::0::1::::<><>::res://interactable/blue_scanner.gd<>uid://0k0xmvl2lfhn::::res://interactable/scan_line_res.tres<>uid://cjf03j4wr6dqm::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/Material.006_baseColor.jpeg<>uid://beoiine1wwkjh::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_baseColor.png<>uid://cf8arp6t7chip::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_metallicRoughness.png<>uid://bx5o35aayon1n::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_normal.png<>uid://d0x3o18m271wm::::res://Audio/sfx/SFX Extendo Hands scanner 01.mp3
+grabpack_item.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+grabpack_item.tscn::PackedScene::7293692262448782187::1712875326::0::1::::<><>::uid://cwvx1fu5l2civ::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_baseColor.png<>res://interactable/grabpack_item.gd<>uid://dybvmkq3bpwrj::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_metallicRoughness.png<>uid://w6x6enopjg2g::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png<>uid://cr2uvl7mx6txq::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_baseColor.png<>uid://dj4uyjaihhnm7::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_metallicRoughness.png<>uid://diy7sxohaeqnt::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_normal.png<>uid://br31mhetywjsw::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Green_baseColor.png<>uid://bgkiq3wxmycv2::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Purple_baseColor.png<>uid://bcvf5ndrucb8q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_baseColor.png<>uid://dbk0fy1sdmxjf::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_metallicRoughness.png<>uid://yavj8aduuqfg::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_normal.png<>uid://xfikhk3k62if::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_baseColor.png<>uid://c2505s3vas22q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_metallicRoughness.png<>uid://0y5gqvc6dhqx::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_normal.png<>uid://dcxwnj5bhfkco::::res://Audio/sfx/SFX item grab v3.mp3
+Grab_Handle.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+grab_handle.tscn::PackedScene::8197279904952970560::1712875325::0::1::::<><>::res://interactable/Grab_Handle.gd<>uid://08fxp3ke5bfe::::res://Models/Map/project_playtime_gate/textures/Smslamdoorhandlemo1Mtl_baseColor.png<>uid://dv74xl3h54nfc::::res://Models/Map/project_playtime_gate/textures/Material.001_baseColor.jpeg
+green_power_charge.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+green_power_charge.tscn::PackedScene::6370918519721359833::1713125764::0::1::::<><>::res://interactable/green_power_charge.gd<>uid://bucs5oc1fmx4v::::res://Models/Map/poppy_playtime_electric/textures/Meshpart1Mtl_baseColor.png<>uid://dtxtyncywmqqs::::res://Audio/sfx/SFX ConduitSFX electric pole charge.mp3<>uid://dbymstv3156bn::::res://Audio/sfx/SFX ConduitSFX electric pole discharge.mp3
+green_scanner.tscn::PackedScene::397745756744439317::1713147316::0::1::::<><>::res://interactable/green_scanner_spript.gd<>uid://beoiine1wwkjh::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_baseColor.png<>uid://cf8arp6t7chip::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_metallicRoughness.png<>uid://bx5o35aayon1n::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_normal.png<>uid://d0x3o18m271wm::::res://Audio/sfx/SFX Extendo Hands scanner 01.mp3<>uid://ckhclb0km8pmi::::res://Models/Map/poppy_playtime_3_blue_hand_scanner/textures/Material.319_diffuse.png
+green_scanner_spript.gd::GDScript::-1::1713150748::0::1::::<>Node3D<>::
+jump_pad.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+jump_pad.tscn::PackedScene::5428812506045662442::1712875326::0::1::::<><>::res://interactable/jump_pad.gd<>uid://bvy2l2jhon017::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/silver_MAT.001_baseColor.jpeg<>uid://cjf03j4wr6dqm::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/Material.006_baseColor.jpeg
+keypad.tscn::PackedScene::3971219221158957491::1713146286::0::1::::<><>::uid://dxlyl3785ph7q::::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/textures/security_keypad_MAT_diffuse.png<>res://interactable/keypad_script.gd<>uid://j3t58a6rs4hy::::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/textures/security_keypad_MAT_specularGlossiness.png<>uid://berat7eltfhm0::::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/textures/security_keypad_MAT_normal.png<>uid://dt8pbnqk0e1rr::::res://Audio/sfx/SFX keypad sfx-[AudioTrimmer.com].mp3<>uid://dvfvnwg3oapad::::res://Audio/sfx/SFX keypad fail sfx.mp3<>uid://bopwu6gkkwnh1::::res://Audio/sfx/SFX keypad unlock sfx.mp3
+keypad_script.gd::GDScript::-1::1713146245::0::1::::<>Node3D<>::
+lever.tscn::PackedScene::2060088807726035783::1713130891::0::1::::<><>::uid://qbaxvuy2ruix::::res://Models/Decoration/poppy_playtime_3_switch_lever/textures/Material.322_baseColor.png<>res://interactable/lever_script.gd<>uid://dbw04cqljuxqj::::res://Audio/sfx/new_lever.mp3
+lever_script.gd::GDScript::-1::1713130716::0::1::::<>Node3D<>::
+power_recieve.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+power_recieve.tscn::PackedScene::2640788522070171314::1712878374::0::1::::<><>::res://interactable/power_recieve.gd<>uid://c2hq3akvdqjkf::::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/textures/green_electrical_a_MAT_baseColor.png<>uid://c65eohv4yxrbm::::res://Audio/sfx/SFX ConduitSFX hand grab coil.mp3
+scan_line_res.tres::StandardMaterial3D::1776924529827785143::1712875327::0::1::::<><>::
+vhs_player.tscn::PackedScene::456284700036847069::1713037940::0::1::::<><>::res://interactable/vhs_player_script.gd<>uid://clud4onn1waet::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot_Baked_baseColor.png<>uid://b1bvdh1l4wj0u::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot_Baked_emissive.png<>uid://c3crcyaolixay::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.001_Baked_baseColor.png<>uid://jas6n5ksw7q0::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.001_Baked_emissive.png<>uid://cmxdbdq06nchh::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.002_Baked_baseColor.png<>uid://b7kd6rw3v3ly5::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.002_Baked_emissive.png<>uid://bv6ypxjhmx8g7::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.003_Baked_baseColor.png<>uid://jrr4vneb27ax::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.003_Baked_emissive.png<>uid://d4vsdvv2q50v::::res://Models/Decoration/vintage_vhs_player_1/textures/Body_Baked_baseColor.png<>uid://rj35f62ol1qd::::res://Models/Decoration/vintage_vhs_player_1/textures/CassetteCover_Baked_baseColor.png<>uid://c8tgg2rm8r0jr::::res://Models/Decoration/vintage_vhs_player_1/textures/CassetteCover_Baked_metallicRoughness.png<>uid://dllnp06rhjw0k::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA_Baked_baseColor.png<>uid://da2usaqmjsdur::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA_Baked_emissive.png<>uid://cwdpeyf8jnqmk::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.001_Baked_baseColor.png<>uid://cwxsuvka45u8d::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.001_Baked_emissive.png<>uid://cnhgf7jhdrv5m::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.002_Baked_baseColor.png<>uid://b8xymvjfk3wjg::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.002_Baked_emissive.png<>uid://djhyskkjd4tu3::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power_Baked_baseColor.png<>uid://dlb2l6cb6mxb7::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power_Baked_emissive.png<>uid://cq8vsy84mnxd2::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.001_Baked_baseColor.png<>uid://cec5k70kotltt::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.001_Baked_metallicRoughness.png<>uid://s4oy1oa7udpc::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.002_Baked_baseColor.png<>uid://ck11jh7v4wkjo::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.002_Baked_emissive.png<>uid://c1h8nasylg2yl::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.003_Baked_baseColor.png<>uid://dkv4uyrrtjm3a::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.003_Baked_emissive.png<>uid://50csts72jxr4::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.004_Baked_baseColor.png<>uid://gj0l16r42q65::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.004_Baked_emissive.png<>uid://dghqktikis3wb::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.005_Baked_baseColor.png<>uid://dot1eoyxbcxic::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.005_Baked_emissive.png<>uid://ceh5hew4xakl6::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.006_Baked_baseColor.png<>uid://cepv2prr653dy::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.006_Baked_emissive.png<>uid://cikirw6sgi3hd::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_baseColor.png<>uid://e4s2lfqky81i::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_emissive.png<>uid://107nrx44kpot::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_metallicRoughness.png<>uid://cnb0s73ah5j05::::res://Models/Decoration/vintage_vhs_player_1/textures/Decal.LED_Baked_baseColor.png<>uid://bdfxc2vh8mkd::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.007_Baked_baseColor.png<>uid://b1u0qp344is65::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.007_Baked_emissive.png<>uid://h2krg5p1w8q1::::res://Audio/sfx/SFX vhs tape insert.mp3
+vhs_player_script.gd::GDScript::-1::1713029258::0::1::::<>Node3D<>::
+vhs_player_tv.gd::GDScript::-1::1713038030::0::1::::<>Node3D<>::
+vhs_player_tv.tscn::PackedScene::184967679411907507::1713038034::0::1::::<><>::res://Video/VHS/Grabpack 2.0 [VHS] Poppy playtime.ogv<>uid://bgie51r2jgt7s::::res://Models/Decoration/poppy_playtime__tv__stand_combo/textures/tv_MATInst_baseColor.png<>res://interactable/vhs_player_tv.gd
+vhs_tape.tscn::PackedScene::8234046241193549024::1713029677::0::1::::<><>::res://interactable/vhs_tape_script.gd<>uid://dcxwnj5bhfkco::::res://Audio/sfx/SFX item grab v3.mp3<>uid://b22en1u5hg8ys::::res://Texture/Font/fashion_signature/Fashion Signature.ttf
+vhs_tape_script.gd::GDScript::-1::1713029202::0::1::::<>Node3D<>::
+::res://interactable/Map Props/::1713220763
+door_basic.tscn::PackedScene::6964516725381614262::1712962657::0::1::::<><>::res://interactable/Map Props/door_basic_script.gd<>uid://cnlt4w3oy7hxs::::res://Models/Map/door_-_poppy_playtime/textures/door_a_MAT_baseColor.png<>uid://caoqnp8k6ypv7::::res://Audio/sfx/SFX door close five.mp3<>uid://c1thugfxo4xpi::::res://Audio/sfx/SFX door lock four.mp3
+door_basic_script.gd::GDScript::-1::1712962656::0::1::::<>Node3D<>::
+door_locked.tscn::PackedScene::8039656794355230645::1712962570::0::1::::<><>::res://interactable/Map Props/door_locked_script.gd<>uid://cnlt4w3oy7hxs::::res://Models/Map/door_-_poppy_playtime/textures/door_a_MAT_baseColor.png<>uid://cw6wqfv4qcuyi::::res://interactable/Map Props/open.res<>uid://c1thugfxo4xpi::::res://Audio/sfx/SFX door lock four.mp3
+door_locked_script.gd::GDScript::-1::1712931928::0::1::::<>Node3D<>::
+door_open.tscn::PackedScene::523904170258919625::1712931779::0::1::::<><>::uid://cnlt4w3oy7hxs::::res://Models/Map/door_-_poppy_playtime/textures/door_a_MAT_baseColor.png
+large_gate.tscn::PackedScene::5649375053431853255::1713047637::0::1::::<><>::uid://311tm3fpvinf::::res://Models/Map/gate_-_poppy_playtime/textures/silver_MAT.001_baseColor.png<>res://interactable/Map Props/large_gate_script.gd<>uid://nqsgw0elcdc3::::res://Models/Map/gate_-_poppy_playtime/textures/blueplastic_MATInst.001_baseColor.jpeg<>uid://dipvqxc8wge14::::res://Models/Map/gate_-_poppy_playtime/textures/blueplastic_MATInst.003_baseColor.jpeg<>uid://buibe1gj526n4::::res://Models/Map/gate_-_poppy_playtime/textures/Material.001_baseColor.jpeg<>uid://c0bov8nl28jvq::::res://Audio/sfx/SFX gate sfx.mp3
+large_gate_script.gd::GDScript::-1::1713045377::0::1::::<>Node3D<>::
+open.res::Animation::6382356280738862840::1712962570::0::1::::<><>::
+::res://map/::1713220985
+new_stuff.tscn::PackedScene::873503342009145002::1713220985::0::1::::<><>::res://map/new_stuff_script.gd<>uid://lrgq2nvitxlq::::res://Player_Worker/player.tscn<>uid://c6hwtqk1hpub3::::res://interactable/Map Props/door_basic.tscn<>uid://hp1viwsfvtnl::::res://interactable/Map Props/door_open.tscn<>uid://cmqum8ke6i6xn::::res://interactable/Map Props/large_gate.tscn<>uid://d3ewgswgmuulq::::res://interactable/blue_scanner.tscn<>uid://dpkvskuqgfgng::::res://interactable/vhs_tape.tscn<>uid://gra7bl7k5eo8::::res://interactable/vhs_player.tscn<>uid://cvunjuln22nf::::res://interactable/vhs_player_tv.tscn<>uid://db6ebtdwjyghv::::res://interactable/grabpack_item.tscn<>uid://fww2xtgu0hwf::::res://interactable/green_scanner.tscn<>uid://4l6mkdqxffn8::::res://interactable/lever.tscn<>uid://bwtxnu3e8glcd::::res://interactable/keypad.tscn<>uid://dl0rkl8yk4xls::::res://Audio/sfx/SFX puzzle complete sfx.mp3
+new_stuff_script.gd::GDScript::-1::1713190634::0::1::::<>Node3D<>::
+::res://Models/::1713220763
+::res://Models/Decoration/::1713220763
+::res://Models/Decoration/poppy_playtime_3_switch_lever/::1713220763
+license.txt::TextFile::-1::1713041608::0::1::::<><>::
+scene.gltf::PackedScene::5774581424149678393::1713041608::1713041611::1::::<><>::uid://qbaxvuy2ruix::::res://Models/Decoration/poppy_playtime_3_switch_lever/textures/Material.322_baseColor.png
+::res://Models/Decoration/poppy_playtime_3_switch_lever/textures/::1713220763
+Material.322_baseColor.png::CompressedTexture2D::1125128084236054703::1713041608::1713041614::1::::<><>::
+::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/::1713220763
+license.txt::TextFile::-1::1713017720::0::1::::<><>::
+scene.gltf::PackedScene::7495414476777801209::1713017720::1713017726::1::::<><>::uid://berat7eltfhm0::::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/textures/security_keypad_MAT_normal.png
+::res://Models/Decoration/poppy_playtime_chapter_1__security_keypad/textures/::1713220763
+security_keypad_MAT_diffuse.png::CompressedTexture2D::8797791983235657700::1713017720::1713142418::1::::<><>::
+security_keypad_MAT_normal.png::CompressedTexture2D::2702306097600247173::1713017720::1713017729::1::::<><>::
+security_keypad_MAT_specularGlossiness.png::CompressedTexture2D::690711101238186746::1713017720::1713142425::1::::<><>::
+::res://Models/Decoration/poppy_playtime__tv__stand_combo/::1713220763
+license.txt::TextFile::-1::1713017902::0::1::::<><>::
+scene.gltf::PackedScene::835387852210906657::1713017902::1713017903::1::::<><>::uid://bgie51r2jgt7s::::res://Models/Decoration/poppy_playtime__tv__stand_combo/textures/tv_MATInst_baseColor.png
+::res://Models/Decoration/poppy_playtime__tv__stand_combo/textures/::1713220763
+tv_MATInst_baseColor.png::CompressedTexture2D::2824366602449807486::1713017902::1713017903::1::::<><>::
+::res://Models/Decoration/vhs_tape/::1713220763
+license.txt::TextFile::-1::1713017720::0::1::::<><>::
+scene.gltf::PackedScene::1114720747445377726::1713017720::1713017723::1::::<><>::
+::res://Models/Decoration/vintage_vhs_player_1/::1713220763
+license.txt::TextFile::-1::1713017720::0::1::::<><>::
+scene.gltf::PackedScene::8257140081215140770::1713017720::1713017728::1::::<><>::uid://clud4onn1waet::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot_Baked_baseColor.png<>uid://b1bvdh1l4wj0u::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot_Baked_emissive.png<>uid://c3crcyaolixay::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.001_Baked_baseColor.png<>uid://jas6n5ksw7q0::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.001_Baked_emissive.png<>uid://cmxdbdq06nchh::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.002_Baked_baseColor.png<>uid://b7kd6rw3v3ly5::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.002_Baked_emissive.png<>uid://bv6ypxjhmx8g7::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.003_Baked_baseColor.png<>uid://jrr4vneb27ax::::res://Models/Decoration/vintage_vhs_player_1/textures/RubberFoot.003_Baked_emissive.png<>uid://d4vsdvv2q50v::::res://Models/Decoration/vintage_vhs_player_1/textures/Body_Baked_baseColor.png<>uid://rj35f62ol1qd::::res://Models/Decoration/vintage_vhs_player_1/textures/CassetteCover_Baked_baseColor.png<>uid://c8tgg2rm8r0jr::::res://Models/Decoration/vintage_vhs_player_1/textures/CassetteCover_Baked_metallicRoughness.png<>uid://dllnp06rhjw0k::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA_Baked_baseColor.png<>uid://da2usaqmjsdur::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA_Baked_emissive.png<>uid://cwdpeyf8jnqmk::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.001_Baked_baseColor.png<>uid://cwxsuvka45u8d::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.001_Baked_emissive.png<>uid://cnhgf7jhdrv5m::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.002_Baked_baseColor.png<>uid://b8xymvjfk3wjg::::res://Models/Decoration/vintage_vhs_player_1/textures/RCA.002_Baked_emissive.png<>uid://djhyskkjd4tu3::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power_Baked_baseColor.png<>uid://dlb2l6cb6mxb7::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power_Baked_emissive.png<>uid://cq8vsy84mnxd2::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.001_Baked_baseColor.png<>uid://cec5k70kotltt::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.001_Baked_metallicRoughness.png<>uid://s4oy1oa7udpc::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.002_Baked_baseColor.png<>uid://ck11jh7v4wkjo::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.002_Baked_emissive.png<>uid://c1h8nasylg2yl::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.003_Baked_baseColor.png<>uid://dkv4uyrrtjm3a::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.003_Baked_emissive.png<>uid://50csts72jxr4::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.004_Baked_baseColor.png<>uid://gj0l16r42q65::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.004_Baked_emissive.png<>uid://dghqktikis3wb::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.005_Baked_baseColor.png<>uid://dot1eoyxbcxic::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.005_Baked_emissive.png<>uid://ceh5hew4xakl6::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.006_Baked_baseColor.png<>uid://cepv2prr653dy::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.006_Baked_emissive.png<>uid://cikirw6sgi3hd::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_baseColor.png<>uid://107nrx44kpot::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_metallicRoughness.png<>uid://e4s2lfqky81i::::res://Models/Decoration/vintage_vhs_player_1/textures/LED_Cover_Baked_emissive.png<>uid://cnb0s73ah5j05::::res://Models/Decoration/vintage_vhs_player_1/textures/Decal.LED_Baked_baseColor.png<>uid://bdfxc2vh8mkd::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.007_Baked_baseColor.png<>uid://b1u0qp344is65::::res://Models/Decoration/vintage_vhs_player_1/textures/Button_Power.007_Baked_emissive.png
+::res://Models/Decoration/vintage_vhs_player_1/textures/::1713220763
+Body_Baked_baseColor.png::CompressedTexture2D::271740877922047087::1713017720::1713017729::1::::<><>::
+Button_Power.001_Baked_baseColor.png::CompressedTexture2D::5965295845490226917::1713017720::1713017729::1::::<><>::
+Button_Power.001_Baked_metallicRoughness.png::CompressedTexture2D::5059566585009632189::1713017720::1713017729::1::::<><>::
+Button_Power.002_Baked_baseColor.png::CompressedTexture2D::1324160424582682796::1713017720::1713017729::1::::<><>::
+Button_Power.002_Baked_emissive.png::CompressedTexture2D::5529998757420118792::1713017720::1713017729::1::::<><>::
+Button_Power.003_Baked_baseColor.png::CompressedTexture2D::6614228851247416711::1713017720::1713017729::1::::<><>::
+Button_Power.003_Baked_emissive.png::CompressedTexture2D::7906300216583447360::1713017720::1713017729::1::::<><>::
+Button_Power.004_Baked_baseColor.png::CompressedTexture2D::2157429358508814771::1713017720::1713017729::1::::<><>::
+Button_Power.004_Baked_emissive.png::CompressedTexture2D::441251444475125124::1713017720::1713017729::1::::<><>::
+Button_Power.005_Baked_baseColor.png::CompressedTexture2D::7595836097777101869::1713017720::1713017729::1::::<><>::
+Button_Power.005_Baked_emissive.png::CompressedTexture2D::8182715597775104494::1713017720::1713017729::1::::<><>::
+Button_Power.006_Baked_baseColor.png::CompressedTexture2D::5069881641984550989::1713017720::1713017729::1::::<><>::
+Button_Power.006_Baked_emissive.png::CompressedTexture2D::5085886496459723694::1713017720::1713017729::1::::<><>::
+Button_Power.007_Baked_baseColor.png::CompressedTexture2D::76726782845085663::1713017720::1713017729::1::::<><>::
+Button_Power.007_Baked_emissive.png::CompressedTexture2D::4254165503346271668::1713017720::1713017729::1::::<><>::
+Button_Power_Baked_baseColor.png::CompressedTexture2D::7806902181312332232::1713017720::1713017729::1::::<><>::
+Button_Power_Baked_emissive.png::CompressedTexture2D::7935064342790190990::1713017720::1713017729::1::::<><>::
+CassetteCover_Baked_baseColor.png::CompressedTexture2D::1213543702999312099::1713017720::1713017729::1::::<><>::
+CassetteCover_Baked_metallicRoughness.png::CompressedTexture2D::7128672846470585215::1713017720::1713017729::1::::<><>::
+Decal.LED_Baked_baseColor.png::CompressedTexture2D::5688912505556405620::1713017720::1713017729::1::::<><>::
+LED_Cover_Baked_baseColor.png::CompressedTexture2D::5355513192698416641::1713017720::1713017729::1::::<><>::
+LED_Cover_Baked_emissive.png::CompressedTexture2D::341764037947277728::1713017720::1713017729::1::::<><>::
+LED_Cover_Baked_metallicRoughness.png::CompressedTexture2D::1878486467313872811::1713017720::1713017729::1::::<><>::
+RCA.001_Baked_baseColor.png::CompressedTexture2D::6324108228548561850::1713017720::1713017729::1::::<><>::
+RCA.001_Baked_emissive.png::CompressedTexture2D::6365606355992537973::1713017720::1713017729::1::::<><>::
+RCA.002_Baked_baseColor.png::CompressedTexture2D::5700121904858359604::1713017720::1713017729::1::::<><>::
+RCA.002_Baked_emissive.png::CompressedTexture2D::4751612966580057968::1713017720::1713017729::1::::<><>::
+RCA_Baked_baseColor.png::CompressedTexture2D::7954864955961681484::1713017720::1713017729::1::::<><>::
+RCA_Baked_emissive.png::CompressedTexture2D::7216246759859368933::1713017720::1713017729::1::::<><>::
+RubberFoot.001_Baked_baseColor.png::CompressedTexture2D::6743294766435608228::1713017720::1713017729::1::::<><>::
+RubberFoot.001_Baked_emissive.png::CompressedTexture2D::632848587850134473::1713017720::1713017729::1::::<><>::
+RubberFoot.002_Baked_baseColor.png::CompressedTexture2D::5662772299622916469::1713017720::1713017729::1::::<><>::
+RubberFoot.002_Baked_emissive.png::CompressedTexture2D::4653345896424104874::1713017720::1713017729::1::::<><>::
+RubberFoot.003_Baked_baseColor.png::CompressedTexture2D::3925867327477922184::1713017720::1713017729::1::::<><>::
+RubberFoot.003_Baked_emissive.png::CompressedTexture2D::667879114718566207::1713017720::1713017729::1::::<><>::
+RubberFoot_Baked_baseColor.png::CompressedTexture2D::5586440897522924747::1713017720::1713017729::1::::<><>::
+RubberFoot_Baked_emissive.png::CompressedTexture2D::4214675818633598442::1713017720::1713017729::1::::<><>::
+::res://Models/Map/::1713220763
+::res://Models/Map/battery_assets__poppy_playtime_chapter_3/::1713220763
+license.txt::TextFile::-1::1712875327::0::1::::<><>::
+scene.gltf::PackedScene::4588304617533077463::1712875327::1712875327::1::::<><>::
+scene_0.png::CompressedTexture2D::25919765410673837::1712875327::1712875327::1::::<><>::
+scene_1.png::CompressedTexture2D::6098221688621210353::1712875327::1712875327::1::::<><>::
+scene_2.png::CompressedTexture2D::6670765398780095320::1712875327::1712875327::1::::<><>::
+scene_3.png::CompressedTexture2D::1203742653213895339::1712875327::1712875327::1::::<><>::
+scene_4.png::CompressedTexture2D::5158353014735986730::1712875327::1712875327::1::::<><>::
+scene_5.png::CompressedTexture2D::2612836118315916676::1712875328::1712875328::1::::<><>::
+scene_6.png::CompressedTexture2D::8098889626556958175::1712875328::1712875328::1::::<><>::
+scene_7.png::CompressedTexture2D::2835063757162608236::1712875328::1712875328::1::::<><>::
+::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/::1713220763
+MI_BatteryBox_baseColor.png::CompressedTexture2D::8733837461056434999::1712875328::1712875328::1::::<><>::
+MI_BatteryBox_normal.png::CompressedTexture2D::126943187928676533::1712875328::1712875328::1::::<><>::
+MI_BatteryFrame_Green_baseColor.png::CompressedTexture2D::2898441264639676924::1712875328::1712875328::1::::<><>::
+MI_BatteryFrame_Green_normal.png::CompressedTexture2D::3863126910271311196::1712875328::1712875328::1::::<><>::
+MI_BatteryIntense_baseColor.png::CompressedTexture2D::5418163476473347844::1712875328::1712875328::1::::<><>::
+MI_BatteryIntense_normal.png::CompressedTexture2D::5669866206942259683::1712875329::1712875329::1::::<><>::
+MI_Battery_ProgressBar_baseColor.png::CompressedTexture2D::9029907894357509425::1712875328::1712875328::1::::<><>::
+MI_Battery_ProgressBar_normal.png::CompressedTexture2D::5543695944737251489::1712875328::1712875328::1::::<><>::
+::res://Models/Map/door_-_poppy_playtime/::1713220763
+license.txt::TextFile::-1::1712930286::0::1::::<><>::
+scene.gltf::PackedScene::2654778329749193853::1712930286::1712930290::1::::<><>::uid://cnlt4w3oy7hxs::::res://Models/Map/door_-_poppy_playtime/textures/door_a_MAT_baseColor.png
+::res://Models/Map/door_-_poppy_playtime/textures/::1713220763
+door_a_MAT_baseColor.png::CompressedTexture2D::5709211100298746876::1712930286::1712930291::1::::<><>::
+::res://Models/Map/gate_-_poppy_playtime/::1713220763
+license.txt::TextFile::-1::1713044850::0::1::::<><>::
+scene.gltf::PackedScene::1623312529322858520::1713044850::1713044852::1::::<><>::uid://311tm3fpvinf::::res://Models/Map/gate_-_poppy_playtime/textures/silver_MAT.001_baseColor.png<>uid://nqsgw0elcdc3::::res://Models/Map/gate_-_poppy_playtime/textures/blueplastic_MATInst.001_baseColor.jpeg<>uid://dipvqxc8wge14::::res://Models/Map/gate_-_poppy_playtime/textures/blueplastic_MATInst.003_baseColor.jpeg<>uid://buibe1gj526n4::::res://Models/Map/gate_-_poppy_playtime/textures/Material.001_baseColor.jpeg
+::res://Models/Map/gate_-_poppy_playtime/textures/::1713220763
+blueplastic_MATInst.001_baseColor.jpeg::CompressedTexture2D::946589826322940268::1713044850::1713044853::1::::<><>::
+blueplastic_MATInst.003_baseColor.jpeg::CompressedTexture2D::7753043308700704849::1713044850::1713044853::1::::<><>::
+Material.001_baseColor.jpeg::CompressedTexture2D::3806781813980649643::1713044850::1713044853::1::::<><>::
+silver_MAT.001_baseColor.png::CompressedTexture2D::2020574689149364631::1713044850::1713044853::1::::<><>::
+::res://Models/Map/poppy_playtime_3_blue_hand_scanner/::1713220763
+license.txt::TextFile::-1::1713125011::0::1::::<><>::
+scene.gltf::PackedScene::3194931286937981934::1713125011::1713125016::1::::<><>::uid://ckhclb0km8pmi::::res://Models/Map/poppy_playtime_3_blue_hand_scanner/textures/Material.319_diffuse.png
+::res://Models/Map/poppy_playtime_3_blue_hand_scanner/textures/::1713220763
+Material.319_diffuse.png::CompressedTexture2D::5489321617378596772::1713125011::1713125017::1::::<><>::
+::res://Models/Map/poppy_playtime_electric/::1713220763
+license.txt::TextFile::-1::1712875329::0::1::::<><>::
+scene.gltf::PackedScene::591869991924766168::1712875329::1712875329::1::::<><>::
+scene_0.png::CompressedTexture2D::8224946046096989896::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime_electric/textures/::1713220763
+Meshpart1Mtl_baseColor.png::CompressedTexture2D::3795473531253824315::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/::1713220763
+license.txt::TextFile::-1::1712878145::0::1::::<><>::
+scene.gltf::PackedScene::1377374026135769729::1712878145::1712878146::1::::<><>::uid://c2hq3akvdqjkf::::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/textures/green_electrical_a_MAT_baseColor.png
+::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/textures/::1713220763
+green_electrical_a_MAT_baseColor.png::CompressedTexture2D::6683412280411932109::1712878145::1712878147::1::::<><>::
+::res://Models/Map/poppy_playtime__hand_panel/::1713220763
+license.txt::TextFile::-1::1712875329::0::1::::<><>::
+scene.gltf::PackedScene::9188915206830585199::1712875329::1712875329::1::::<><>::
+scene_0.png::CompressedTexture2D::7883609958592383953::1712875329::1712875329::1::::<><>::
+scene_1.png::CompressedTexture2D::2188828304013295117::1712875329::1712875329::1::::<><>::
+scene_2.png::CompressedTexture2D::5681716115964973574::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime__hand_panel/textures/::1713220763
+hand_panel_MAT.001_baseColor.png::CompressedTexture2D::2696578059289804849::1712875329::1712875329::1::::<><>::
+hand_panel_MAT.001_metallicRoughness.png::CompressedTexture2D::5191941246602031723::1712875329::1712875329::1::::<><>::
+hand_panel_MAT.001_normal.png::CompressedTexture2D::4063597035850849317::1712875329::1712875329::1::::<><>::
+::res://Models/Map/project_playtime_gate/::1713220763
+license.txt::TextFile::-1::1712875330::0::1::::<><>::
+scene.gltf::PackedScene::600399487586534990::1712875330::1712875330::1::::<><>::
+scene_0.png::CompressedTexture2D::9208124840385262851::1712875330::1712875330::1::::<><>::
+scene_1.png::CompressedTexture2D::9172001553067120809::1712875330::1712875330::1::::<><>::
+scene_2.jpg::CompressedTexture2D::4792058691754351567::1712875330::1712875330::1::::<><>::
+::res://Models/Map/project_playtime_gate/textures/::1713220763
+Material.001_baseColor.jpeg::CompressedTexture2D::8701090343028604424::1712875330::1712875330::1::::<><>::
+Smslamdoorhandlemo1Mtl_baseColor.png::CompressedTexture2D::1823191046624082978::1712875330::1712875330::1::::<><>::
+Smslamdoormo1Mtl_baseColor.png::CompressedTexture2D::12052965407863932::1712875330::1712875330::1::::<><>::
+::res://Models/Map/purple_hand_panel_poppy_playtime_3/::1713220763
+license.txt::TextFile::-1::1712875330::0::1::::<><>::
+scene.gltf::PackedScene::5857004555066981968::1712875330::1712875330::1::::<><>::
+scene_0.jpg::CompressedTexture2D::7577977568825875731::1712875330::1712875330::1::::<><>::
+scene_1.jpg::CompressedTexture2D::6815185022716267265::1712875330::1712875330::1::::<><>::
+::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/::1713220763
+Material.006_baseColor.jpeg::CompressedTexture2D::5416431294480289984::1712875330::1712875330::1::::<><>::
+silver_MAT.001_baseColor.jpeg::CompressedTexture2D::3911591901097855200::1712875330::1712875331::1::::<><>::
+::res://Models/Monster/::1713220763
+::res://Models/Monster/project_playtime_mommy_long_legs/::1713220763
+license.txt::TextFile::-1::1713151989::0::1::::<><>::
+scene.gltf::PackedScene::4038848512277274994::1713151989::1713151995::1::::<><>::uid://bowjqvqssm6i1::::res://Models/Monster/project_playtime_mommy_long_legs/textures/MI_MommyBody_Default_1001_baseColor.png<>uid://diqqr3wpij5rn::::res://Models/Monster/project_playtime_mommy_long_legs/textures/MI_MommyBody_Default_1001_metallicRoughness.png<>uid://iku6ejijgwcs::::res://Models/Monster/project_playtime_mommy_long_legs/textures/MI_MommyBody_Default_1002_baseColor.png<>uid://bvjyadrrh0a6e::::res://Models/Monster/project_playtime_mommy_long_legs/textures/MI_MommyBody_Default_1002_metallicRoughness.png<>uid://d3u7ji4og8gf4::::res://Models/Monster/project_playtime_mommy_long_legs/textures/M_MommyLongLegsTemp3_baseColor.png<>uid://dhnvnmpjwit30::::res://Models/Monster/project_playtime_mommy_long_legs/textures/M_MommyLongLegsTemp3_metallicRoughness.png
+::res://Models/Monster/project_playtime_mommy_long_legs/textures/::1713220763
+MI_MommyBody_Default_1001_baseColor.png::CompressedTexture2D::3415056959401869158::1713151989::1713151996::1::::<><>::
+MI_MommyBody_Default_1001_metallicRoughness.png::CompressedTexture2D::7754806179961277551::1713151989::1713151996::1::::<><>::
+MI_MommyBody_Default_1001_specularf0.png::CompressedTexture2D::7325717541197309522::1713151989::1713151991::1::::<><>::
+MI_MommyBody_Default_1002_baseColor.png::CompressedTexture2D::583424450483649966::1713151989::1713151996::1::::<><>::
+MI_MommyBody_Default_1002_metallicRoughness.png::CompressedTexture2D::3880423192319179962::1713151989::1713151996::1::::<><>::
+M_MommyLongLegsTemp3_baseColor.png::CompressedTexture2D::9167796709570623687::1713151989::1713151996::1::::<><>::
+M_MommyLongLegsTemp3_metallicRoughness.png::CompressedTexture2D::7678719793408089885::1713151989::1713151996::1::::<><>::
+M_MommyLongLegsTemp3_specularf0.png::CompressedTexture2D::5365235938678811977::1713151989::1713151991::1::::<><>::
+::res://Models/Worker/::1713220763
+::res://Models/Worker/grabpack_v2_-_poppy_playtime/::1713220764
+license.txt::TextFile::-1::1712875335::0::1::::<><>::
+scene.gltf::PackedScene::7506541756752677972::1712875336::1712875336::1::::<><>::
+::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/::1713220764
+MI_BaseHand_Blue_baseColor.png::CompressedTexture2D::6023042377887493586::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Blue_metallicRoughness.png::CompressedTexture2D::7852086270681654548::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Blue_normal.png::CompressedTexture2D::7772294184322351117::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Green_baseColor.png::CompressedTexture2D::3639034048731001646::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Purple_baseColor.png::CompressedTexture2D::2828713337408001485::1712875336::1712875336::1::::<><>::
+MI_FlareHand_baseColor.png::CompressedTexture2D::1625169270724524697::1712875336::1712875336::1::::<><>::
+MI_FlareHand_metallicRoughness.png::CompressedTexture2D::6731443966500888002::1712875336::1712875336::1::::<><>::
+MI_FlareHand_normal.png::CompressedTexture2D::1806099254541586395::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_baseColor.png::CompressedTexture2D::6361791076624991093::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_metallicRoughness.png::CompressedTexture2D::8847155713745610539::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_normal.png::CompressedTexture2D::1609602351689606508::1712875337::1712875337::1::::<><>::
+MI_RocketHand_baseColor.png::CompressedTexture2D::2570508150822575270::1712875337::1712875337::1::::<><>::
+MI_RocketHand_metallicRoughness.png::CompressedTexture2D::7251622827594282851::1712875337::1712875337::1::::<><>::
+MI_RocketHand_normal.png::CompressedTexture2D::1685825109740409520::1712875337::1712875337::1::::<><>::
+::res://Player_Worker/::1713220764
+flare.gd::GDScript::-1::1712893797::0::1::::<>Node3D<>::
+flare.tscn::PackedScene::8225418394823120899::1712893857::0::1::::<><>::res://Player_Worker/flare.gd<>uid://ifarkg46g1qh::::res://Texture/Effects/smoke_effect.png
+grabpack.gd::GDScript::-1::1712875811::0::1::::<>Node3D<>::
+Hand_Flare.gd::GDScript::-1::1712875338::0::1::::<>Node3D<>::
+player.gd::GDScript::-1::1713146450::0::1::::Player<>CharacterBody3D<>::
+player.tscn::PackedScene::807566015674969178::1713146483::0::1::::<><>::res://Player_Worker/grabpack.gd<>res://Player_Worker/player.gd<>uid://cwvx1fu5l2civ::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_baseColor.png<>uid://dybvmkq3bpwrj::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_metallicRoughness.png<>uid://w6x6enopjg2g::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png<>uid://cr2uvl7mx6txq::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_baseColor.png<>uid://dj4uyjaihhnm7::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_metallicRoughness.png<>uid://diy7sxohaeqnt::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_normal.png<>uid://br31mhetywjsw::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Green_baseColor.png<>uid://bgkiq3wxmycv2::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Purple_baseColor.png<>uid://bcvf5ndrucb8q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_baseColor.png<>uid://dbk0fy1sdmxjf::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_metallicRoughness.png<>uid://yavj8aduuqfg::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_normal.png<>uid://xfikhk3k62if::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_baseColor.png<>uid://c2505s3vas22q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_metallicRoughness.png<>res://Player_Worker/Hand_Flare.gd<>uid://0y5gqvc6dhqx::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_normal.png<>uid://whr31km06tvy::::res://Player_Worker/crosshair/3.png<>uid://dyn41fnsgp5g2::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun01.mp3<>uid://dv7b6m4hxk664::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun02.mp3<>uid://8hgt0vrdrtc8::::res://Audio/sfx/SFX Characters Player PlayerWalk RegularJump jump1.mp3<>uid://b2ostgrwt40j4::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun03.mp3<>uid://cbcjqah7vyimd::::res://Audio/sfx/SFX Characters Player PlayerWalk RegularJump jump2.mp3<>uid://cgyg4ihxlmdjh::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun04.mp3<>uid://dv8eiw44c7tj2::::res://Audio/sfx/SFX Extendo Hands hand launch 01.mp3<>uid://c5tbms88vdi3h::::res://Audio/sfx/SFX Extendo Hands hand retract 01.mp3<>uid://chrjxcrbanamq::::res://Player_Worker/UI/pause_menu.tscn
+player_global.gd::GDScript::-1::1713145544::0::1::::<>Node<>::
+::res://Player_Worker/crosshair/::1713220764
+3.png::CompressedTexture2D::1559688777056520374::1712875338::1712875338::1::::<><>::
+5.png::CompressedTexture2D::3191676880872972991::1712875338::1712875338::1::::<><>::
+7.png::CompressedTexture2D::491722267000528260::1712875338::1712875338::1::::<><>::
+46.png::CompressedTexture2D::8707720278468864378::1712875338::1712875338::1::::<><>::
+59.png::CompressedTexture2D::1816269483922013151::1712875338::1712875338::1::::<><>::
+::res://Player_Worker/UI/::1713220998
+pause_menu.tscn::PackedScene::5299845352220477936::1712980265::0::1::::<><>::uid://dcrhrriv2kmjx::::res://Texture/Font/easvhs/easvhs.ttf<>res://Player_Worker/UI/pause_menu_vhs.gdshader<>res://Player_Worker/UI/pause_menu_script.gd
+pause_menu_script.gd::GDScript::-1::1712986336::0::1::::<>Control<>::
+pause_menu_vhs.gdshader::Shader::-1::1713220998::0::1::::<><>::
+::res://Texture/::1713220855
+::res://Texture/Effects/::1713220764
+smoke_effect.png::CompressedTexture2D::571863532232589263::1712889370::1712889835::1::::<><>::
+::res://Texture/Floor/::1713220764
+::res://Texture/Floor/floor_clean/::1713220764
+Material_baseColor.png::CompressedTexture2D::864674696139890050::1712986610::1712986653::1::::<><>::
+Material_metallicRoughness.png::CompressedTexture2D::5876655373516699065::1712986610::1712986628::1::::<><>::
+Material_normal.png::CompressedTexture2D::4792489291937111243::1712986610::1712986631::1::::<><>::
+::res://Texture/Font/::1713220855
+::res://Texture/Font/easvhs/::1713220855
+easvhs.ttf::FontFile::7335190443866152601::1713220855::1713220855::1::::<><>::
+::res://Texture/Font/fashion_signature/::1713220855
+1.png::CompressedTexture2D::4414786096994871429::1713220855::1713220855::1::::<><>::
+Fashion Signature.ttf::FontFile::4337525142447302822::1713220855::1713220855::1::::<><>::
+READ ME.txt::TextFile::-1::1713220855::0::1::::<><>::
+::res://Texture/Walls/::1713220764
+::res://Texture/Walls/Concrete034_1K-JPG/::1713220864
+Concrete034.png::CompressedTexture2D::4667929383239534471::1712986713::1712986715::1::::<><>::
+Concrete034_1K-JPG_Color.jpg::CompressedTexture2D::9070045770663932369::1712986713::1712986737::1::::<><>::
+Concrete034_1K-JPG_Displacement.jpg::CompressedTexture2D::4030216455704070482::1712986713::1712986714::1::::<><>::
+Concrete034_1K-JPG_NormalDX.jpg::CompressedTexture2D::2224607024414332810::1712986713::1712986729::1::::<><>::
+Concrete034_1K-JPG_NormalGL.jpg::CompressedTexture2D::6351264367479435303::1712986713::1712986714::1::::<><>::
+Concrete034_1K-JPG_Roughness.jpg::CompressedTexture2D::486526101757053261::1712986713::1712986732::1::::<><>::
+concrete_res.tres::StandardMaterial3D::6717147726674958558::1713220864::0::1::::<><>::uid://d2hulf76x81ib::::res://Texture/Walls/Concrete034_1K-JPG/Concrete034_1K-JPG_Color.jpg<>uid://6xu7nj4foo6u::::res://Texture/Walls/Concrete034_1K-JPG/Concrete034_1K-JPG_NormalDX.jpg<>uid://g6xap76uebpl::::res://Texture/Walls/Concrete034_1K-JPG/Concrete034_1K-JPG_Roughness.jpg
+::res://Video/::1713220764
+::res://Video/VHS/::1713220764
+Grabpack 2.0 [VHS] Poppy playtime.ogv::VideoStreamTheora::-1::1713018956::0::1::::<><>::
+THE HOUR OF JOY (VHS).ogv::VideoStreamTheora::-1::1713037744::0::1::::<><>::
